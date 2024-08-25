@@ -1,0 +1,229 @@
+{
+  "collections": [
+    {
+      "id": 1,
+      "title": "Nature Wonders 1",
+      "description": "Explore breathtaking nature landscapes.",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "user": "User1",
+      "views": 1234,
+      "addedOn": "2024-08-01T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Tech Innovations 2",
+      "description": "The latest in technology and gadgets.",
+      "imageUrl": "https://picsum.photos/300/200?random=2",
+      "user": "User2",
+      "views": 5678,
+      "addedOn": "2024-08-02T14:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Travel Diaries 3",
+      "description": "Journeys through amazing travel destinations.",
+      "imageUrl": "https://picsum.photos/300/200?random=3",
+      "user": "User3",
+      "views": 91011,
+      "addedOn": "2024-08-03T16:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Culinary Delights 4",
+      "description": "Delicious recipes and food photography.",
+      "imageUrl": "https://picsum.photos/300/200?random=4",
+      "user": "User4",
+      "views": 1213,
+      "addedOn": "2024-08-04T18:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Urban Exploration 5",
+      "description": "Discover hidden gems in cities.",
+      "imageUrl": "https://picsum.photos/300/200?random=5",
+      "user": "User5",
+      "views": 1415,
+      "addedOn": "2024-08-05T20:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Nature Wonders 6",
+      "description": "Stunning views of nature’s beauty.",
+      "imageUrl": "https://picsum.photos/300/200?random=6",
+      "user": "User6",
+      "views": 1617,
+      "addedOn": "2024-08-06T22:00:00Z"
+    },
+    {
+      "id": 7,
+      "title": "Tech Innovations 7",
+      "description": "Latest gadgets and tech trends.",
+      "imageUrl": "https://picsum.photos/300/200?random=7",
+      "user": "User7",
+      "views": 1819,
+      "addedOn": "2024-08-07T12:00:00Z"
+    },
+    {
+      "id": 8,
+      "title": "Travel Diaries 8",
+      "description": "Amazing travel experiences captured.",
+      "imageUrl": "https://picsum.photos/300/200?random=8",
+      "user": "User8",
+      "views": 2021,
+      "addedOn": "2024-08-08T14:00:00Z"
+    },
+    {
+      "id": 9,
+      "title": "Culinary Delights 9",
+      "description": "Food from around the world.",
+      "imageUrl": "https://picsum.photos/300/200?random=9",
+      "user": "User9",
+      "views": 2223,
+      "addedOn": "2024-08-09T16:00:00Z"
+    },
+    {
+      "id": 10,
+      "title": "Urban Exploration 10",
+      "description": "Exploring urban landscapes and hidden spots.",
+      "imageUrl": "https://picsum.photos/300/200?random=10",
+      "user": "User10",
+      "views": 2425,
+      "addedOn": "2024-08-10T18:00:00Z"
+    },
+    {
+      "id": 11,
+      "title": "Nature Wonders 11",
+      "description": "Capturing the essence of nature.",
+      "imageUrl": "https://picsum.photos/300/200?random=11",
+      "user": "User11",
+      "views": 2627,
+      "addedOn": "2024-08-11T20:00:00Z"
+    },
+    {
+      "id": 12,
+      "title": "Tech Innovations 12",
+      "description": "Innovations that are changing the world.",
+      "imageUrl": "https://picsum.photos/300/200?random=12",
+      "user": "User12",
+      "views": 2829,
+      "addedOn": "2024-08-12T22:00:00Z"
+    },
+    {
+      "id": 13,
+      "title": "Travel Diaries 13",
+      "description": "Stories and photos from exciting travels.",
+      "imageUrl": "https://picsum.photos/300/200?random=13",
+      "user": "User13",
+      "views": 3031,
+      "addedOn": "2024-08-13T12:00:00Z"
+    },
+    {
+      "id": 14,
+      "title": "Culinary Delights 14",
+      "description": "Tasty dishes and recipes to try.",
+      "imageUrl": "https://picsum.photos/300/200?random=14",
+      "user": "User14",
+      "views": 3233,
+      "addedOn": "2024-08-14T14:00:00Z"
+    },
+    {
+      "id": 15,
+      "title": "Urban Exploration 15",
+      "description": "Discovering the beauty in urban areas.",
+      "imageUrl": "https://picsum.photos/300/200?random=15",
+      "user": "User15",
+      "views": 3435,
+      "addedOn": "2024-08-15T16:00:00Z"
+    },
+    {
+      "id": 16,
+      "title": "Nature Wonders 16",
+      "description": "Unveiling nature’s wonders through images.",
+      "imageUrl": "https://picsum.photos/300/200?random=16",
+      "user": "User16",
+      "views": 3637,
+      "addedOn": "2024-08-16T18:00:00Z"
+    },
+    {
+      "id": 17,
+      "title": "Tech Innovations 17",
+      "description": "Cutting-edge tech developments.",
+      "imageUrl": "https://picsum.photos/300/200?random=17",
+      "user": "User17",
+      "views": 3839,
+      "addedOn": "2024-08-17T20:00:00Z"
+    },
+    {
+      "id": 18,
+      "title": "Travel Diaries 18",
+      "description": "Adventures and experiences in travel.",
+      "imageUrl": "https://picsum.photos/300/200?random=18",
+      "user": "User18",
+      "views": 4041,
+      "addedOn": "2024-08-18T22:00:00Z"
+    },
+    {
+      "id": 19,
+      "title": "Culinary Delights 19",
+      "description": "Gourmet food and culinary experiences.",
+      "imageUrl": "https://picsum.photos/300/200?random=19",
+      "user": "User19",
+      "views": 4243,
+      "addedOn": "2024-08-19T12:00:00Z"
+    },
+    {
+      "id": 20,
+      "title": "Urban Exploration 20",
+      "description": "Urban photography and exploration.",
+      "imageUrl": "https://picsum.photos/300/200?random=20",
+      "user": "User20",
+      "views": 4445,
+      "addedOn": "2024-08-20T14:00:00Z"
+    },
+    {
+      "id": 21,
+      "title": "Nature Wonders 21",
+      "description": "Exploring the beauty of nature.",
+      "imageUrl": "https://picsum.photos/300/200?random=21",
+      "user": "User21",
+      "views": 4647,
+      "addedOn": "2024-08-21T16:00:00Z"
+    },
+    {
+      "id": 22,
+      "title": "Tech Innovations 22",
+      "description": "New tech gadgets and innovations.",
+      "imageUrl": "https://picsum.photos/300/200?random=22",
+      "user": "User22",
+      "views": 4849,
+      "addedOn": "2024-08-22T18:00:00Z"
+    },
+    {
+      "id": 23,
+      "title": "Travel Diaries 23",
+      "description": "Amazing travel locations and stories.",
+      "imageUrl": "https://picsum.photos/300/200?random=23",
+      "user": "User23",
+      "views": 5051,
+      "addedOn": "2024-08-23T20:00:00Z"
+    },
+    {
+      "id": 24,
+      "title": "Culinary Delights 24",
+      "description": "Food recipes and culinary arts.",
+      "imageUrl": "https://picsum.photos/300/200?random=24",
+      "user": "User24",
+      "views": 5253,
+      "addedOn": "2024-08-24T22:00:00Z"
+    },
+    {
+      "id": 25,
+      "title": "Urban Exploration 25",
+      "description": "Hidden urban gems and photography.",
+      "imageUrl": "https://picsum.photos/300/200?random=25",
+      "user": "User25",
+      "views": 5455,
+      "addedOn": "2024-08-25T12:00:00Z"
+    }
+  ]
+}

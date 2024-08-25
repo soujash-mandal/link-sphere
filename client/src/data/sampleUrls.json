@@ -1,0 +1,65 @@
+{
+    "urls": [
+      {
+        "title": "Beautiful Waterfalls",
+        "url": "https://example.com/waterfalls",
+        "description": "A guide to the most beautiful waterfalls in the world.",
+        "previewImage": "https://picsum.photos/100/100?random=21"
+      },
+      {
+        "title": "Majestic Mountains",
+        "url": "https://example.com/mountains",
+        "description": "Explore the tallest and most majestic mountains.",
+        "previewImage": "https://picsum.photos/100/100?random=22"
+      },
+      {
+        "title": "Serene Beaches",
+        "url": "https://example.com/beaches",
+        "description": "Discover serene and tranquil beaches around the globe.",
+        "previewImage": "https://picsum.photos/100/100?random=23"
+      },
+      {
+        "title": "Urban Architecture",
+        "url": "https://example.com/architecture",
+        "description": "An exploration of stunning urban architecture.",
+        "previewImage": "https://picsum.photos/100/100?random=24"
+      },
+      {
+        "title": "Historic Landmarks",
+        "url": "https://example.com/landmarks",
+        "description": "Visit historic landmarks and monuments.",
+        "previewImage": "https://picsum.photos/100/100?random=25"
+      },
+      {
+        "title": "Cultural Festivals",
+        "url": "https://example.com/festivals",
+        "description": "Experience vibrant cultural festivals from around the world.",
+        "previewImage": "https://picsum.photos/100/100?random=26"
+      },
+      {
+        "title": "Wildlife Encounters",
+        "url": "https://example.com/wildlife",
+        "description": "Amazing encounters with wildlife in their natural habitats.",
+        "previewImage": "https://picsum.photos/100/100?random=27"
+      },
+      {
+        "title": "Gourmet Cuisine",
+        "url": "https://example.com/cuisine",
+        "description": "A collection of gourmet dishes and recipes.",
+        "previewImage": "https://picsum.photos/100/100?random=28"
+      },
+      {
+        "title": "Space Exploration",
+        "url": "https://example.com/space",
+        "description": "Discover the wonders of space and astronomy.",
+        "previewImage": "https://picsum.photos/100/100?random=29"
+      },
+      {
+        "title": "Adventure Sports",
+        "url": "https://example.com/adventure",
+        "description": "Thrilling adventure sports and activities.",
+        "previewImage": "https://picsum.photos/100/100?random=30"
+      }
+    ]
+  }
+  
